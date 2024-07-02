@@ -52,7 +52,7 @@ happy:
   paper-card-background-color: 'var(--background-color)'
 
   # Background
-  background-color: '#242e42'
+  background-color: 'red' # '#242e42'
   primary-background-color: 'var(--background-color)'
   background-color-2: '#20293c' 
   secondary-background-color: 'none'
