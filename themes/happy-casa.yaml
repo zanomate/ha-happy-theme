@@ -3,7 +3,7 @@ happy-casa:
 
   card-mod-card: |
     .off.background {
-      background-color: var(--card-background-color);
+      --primary-color: var(--card-background-color);
     }
 
   modes:
