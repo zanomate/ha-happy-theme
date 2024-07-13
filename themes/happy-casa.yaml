@@ -16,8 +16,8 @@ happy-casa:
       # FONTS -------------------------------------------------------------
 
       # Font Families
-      base-font-family: 'JetBrains Mono' # https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Major+Mono+Display&display=swap
-      emph-font-family: 'Major Mono Display' # https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap
+      base-font-family: 'Roboto Mono' # https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap
+      emph-font-family: 'Rubik Mono One' # https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rubik+Mono+One&display=swap
 
       # Font
       paper-font-common-base_-_font-family: 'var(--base-font-family)'
